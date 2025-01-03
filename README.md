@@ -38,3 +38,6 @@ The application uses SQLite to store all data in a local database (wishlist.db).
 
 ## Contributing
 Contributions are welcome! If you have suggestions or find any bugs, feel free to create an issue or submit a pull request.
+
+## Link to Video
+[Here](https://youtu.be/W1ocYcpmJlM)
